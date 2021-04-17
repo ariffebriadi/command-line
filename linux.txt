@@ -1,0 +1,39 @@
+Linux merupakan sistem operasi yang paling banyak digunakan di dunia ini
+sayang nya banyak orang yang tidak menyadarinya
+Linux telah lama digunakan untuk infrastruktur internet
+hingga peralatan di kehidupan sehari-harimu
+mulai dari mobil, CCTV,DVR,rambu lalulintas,sensor,mesin medis,
+mesin industri,perangkat keamanan,mesin absensi,smart tv,
+bahkan HP kalian menggunakan sistem operasi linux yaitu android
+
+Linux sudah ada dari akhir tahun 1990-an
+dan sejak saat itu linux banyak digunakan untuk menghidupi internet,
+yap perangkat infrastruktur internet sebagian besar menggunakan linux
+mulai dari router, switch, server semua menggunakan linux.
+
+====================================
+
+Mengenal Apa itu Linux
+Linux adalah sebuah sistem operasi seperti Unix
+yang menggunakan kernel linux sebagai inti dan disertakan
+aplikasi dan module pendukung lain agar berfungsi
+dan bisa digunakan secara utuh layaknya sistem operasi pada umumnya.
+
+Sistem operasi ini bersifat bebas
+digunakan dan opensource sehingga bisa dipakai dan dikembangkan
+oleh semua pihak secara gratis.
+
+Bagi kalian yang belum tau apa itu sistem operasi,
+sistem operasi adalah perangkat lunak yang bertugas
+untuk mengelola sumberdaya/resource komputer.
+
+Sistem operasi juga bertugas sebagai jembatan komunikasi
+antara hardware dengan aplikasi produktif
+yang kalian gunakan sehari-hari
+untuk benerja,seperti ms.office,photoshop,corel,chrome,bahkan game.
+
+Tanpa sistem operasi aplikasi
+produktif yang kalian gunakan sehari-hari
+untuk bekerja tidak akan bisa berjalan dan gunakan.
+
+dari : https://www.belajarlinux.org/mengenal-linux/

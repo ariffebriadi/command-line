@@ -1,0 +1,5 @@
+Belajar command-line asik.
+Belajar Linux menyenangkan.
+Menggunakan command line tidaklah sesulit yang dibayangkan.
+Command line berbasis text.
+File text dapat diedit di command-line.

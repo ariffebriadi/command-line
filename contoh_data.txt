@@ -1,0 +1,8 @@
+Nama	ID	Group
+Arif	09	TKJ
+Juni	101	RPL
+Dita	99	Akuntansi
+Ichsan	69	RPL
+Eka	70	Multimedia
+Arina	23	Multimedia
+Eski	12	TKJ
